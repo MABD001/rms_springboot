@@ -106,3 +106,4 @@ target/classes/application.properties
 target/classes/application-staging.properties
 target/classes/application-prod.properties
 src/test/java/com/dasa/rms/RmsApplicationTests.java
+/target/
